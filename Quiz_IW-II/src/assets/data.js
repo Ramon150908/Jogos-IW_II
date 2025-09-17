@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Quando foi lançado o 1º Como Treinar o seu Dragão no Brasil?",
+      option1: "30 de Fevereiro de 2011",
+      option2: "28 de Abril de 2007",
+      option3: "26 de Março de 2010",
+      option4: "25 de Março de 2010",
+      ans: 3,
+    },
+    {
+      question: "Qual é o nome do vilão do segundo filme?",
+      option1: "Morte Rubra",
+      option2: "Drago Sangue Bravo",
+      option3: "Viggo Grimborn",
+      option4: "Grimmel, o Terrível",
+      ans: 2,
+    },
+    {
+      question: "Qaul o nome do dragão que os caçadores de dragões usam como arma em Corrida até o Limite?",
+      option1: "Estripador Submarino",
+      option2: "Terror dos Mares",
+      option3: "Fogo de Bala",
+      option4: "Besta Implacável",
+      ans: 3,
+    },
+    {
+      question: "Qual a espécie do dragão que é conhecido como 'O Grande Protetor'?",
+      option1: "Gronkel",
+      option2: "Pesadelo Monstruoso",
+      option3: "Magmodonte",
+      option4: "Eruptidão",
+      ans: 4,
+    },
+    {
+      question: "Qual o dragão que tem a habilidade de imitar o fogo de outros dragões?",
+      option1: "Ferrão letal",
+      option2: "Dramilhão",
+      option3: "Papa-Tudo",
+      option4: "Destripador Rubro",
+      ans: 2,
+    },
+  ];
